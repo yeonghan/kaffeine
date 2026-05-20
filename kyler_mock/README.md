@@ -30,5 +30,6 @@ open_paybridge_demo.command
 - AWS 7R 마이그레이션 전략 매핑
 - Workload Placement Decision Record
 - 30/60/90일 실행 로드맵과 승인 체크리스트
+- 평가 결과 보고서 미리보기와 PDF 저장
 
 모든 데이터는 데모용 mock 데이터이며 실제 사내 서비스명, CMDB, 비용 데이터, AWS 계정을 사용하지 않습니다.
