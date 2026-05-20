@@ -6,6 +6,22 @@
 
 별도 설치 없이 `index.html` 파일을 브라우저에서 열면 됩니다. 모든 CSS와 JavaScript는 HTML 안에 포함되어 있습니다.
 
+## Git에서 받아와 바로 열기
+
+macOS 터미널:
+
+```sh
+sh open_paybridge_demo.sh
+```
+
+Finder에서 더블클릭:
+
+```sh
+open_paybridge_demo.command
+```
+
+스크립트는 어느 위치에서 실행해도 `https://github.com/yeonghan/kaffeine.git`을 사용자 캐시 폴더로 clone 또는 pull 한 뒤 `kyler_mock/index.html`을 기본 브라우저로 엽니다.
+
 ## 포함 기능
 
 - mock CMDB CSV 평가
